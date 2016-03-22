@@ -1,4 +1,4 @@
-# Fourier
+# Fourier transzformáció
 
 Példák:
 -------
